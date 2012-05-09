@@ -1,0 +1,11 @@
+"CHECK_SETTING" = "请检查您的远程网络主机设置是否有问题";
+"CON" = "连接";
+"DIS" = "断开连接";
+"ED" = "已连接";
+"HAVE_ERROR" = "有错误发生";
+"ING" = "连接中";
+"OK" = "确定";
+"STATUS_CON" = "已连接";
+"STATUS_CONING" = "连接中…";
+"STATUS_NOT_CON" = "连接已断开";
+"CONN_NOTICE" = "iSSH 连接通知";
